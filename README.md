@@ -71,7 +71,7 @@ GitHub repository.
 
 - [ ] Classes of design patterns (behavioural, creational, structural)
 
-#### More frequently mentioned
+#### Frequently mentioned
 
 - [ ] Singleton
 - [ ] Factory, abstract factory
@@ -101,5 +101,5 @@ GitHub repository.
 ### Binary
 
 - [ ] Basic binary operations
-- [ ] Big-endian and littl-endian
+- [ ] Big-endian and little-endian
 - [ ] Exercise: determine if a bit-wise representation of an integer is a palindrome
