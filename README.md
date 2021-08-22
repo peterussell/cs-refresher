@@ -11,7 +11,7 @@ post [here](https://httpete.nz/posts/cs-refresher-intro/).
 
 This is based loosely on this [Reddit post](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
 by [/u/RunninADorito](https://www.reddit.com/user/RunninADorito/),
-and the well-known [Coding Interview University](https://github.com/jwasham/coding-interview-university#design-patterns)
+and the well-known [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 GitHub repository.
 
 ## Topics
