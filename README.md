@@ -18,88 +18,88 @@ GitHub repository.
 
 ### Complexity analysis
 
-[ ] Big-O notation
+- [ ] Big-O notation
 
 ### Data structures
 
-[ ] Array
-[ ] Linked list
-[ ] Stack
-[ ] Queue
-[ ] Trees
-    [ ] Binary
-    [ ] Binary search
-    [ ] Red-black tree
-    [ ] Trie
-[ ] Heap
-[ ] Hash table
-[ ] Hash map
-[ ] Linked hash map
-[ ] Directed graph
-[ ] Undirected graph
+- [ ] Array
+- [ ] Linked list
+- [ ] Stack
+- [ ] Queue
+- [ ] Trees
+    - [ ] Binary
+    - [ ] Binary search
+    - [ ] Red-black tree
+    - [ ] Trie
+- [ ] Heap
+- [ ] Hash table
+- [ ] Hash map
+- [ ] Linked hash map
+- [ ] Directed graph
+- [ ] Undirected graph
 
 ### Algorithms
 
-[ ] Sorting algorithms
-    [ ] (TODO)
-[ ] Tree traversals
-    [ ] (TODO)
-    [ ] Inorder
-    [ ] Preorder
-    [ ] Postorder
-[ ] Traversals
-    [ ] Dijkstra's
-    [ ] A*
-    [ ] BFS and DFS, when would you use each
-[ ] Prefix search trees
-    [ ] (TODO)
+- [ ] Sorting algorithms
+    - [ ] (TODO)
+- [ ] Tree traversals
+    - [ ] (TODO)
+    - [ ] Inorder
+    - [ ] Preorder
+    - [ ] Postorder
+- [ ] Traversals
+    - [ ] Dijkstra's
+    - [ ] A*
+    - [ ] BFS and DFS, when would you use each
+- [ ] Prefix search trees
+    - [ ] (TODO)
 
 ### Programming
 
-[ ] C#.Net brush-up
-    [ ] Build a simple tic-tac-toe game
-[ ] Recursion
-[ ] SOLID principles
-    [ ] Single responsibility
-    [ ] Open/closed
-    [ ] Liskov substitution
-    [ ] Interface segregation
-    [ ] Dependency inversion
+- [ ] C#.Net brush-up
+    - [ ] Build a simple tic-tac-toe game
+- [ ] Recursion
+- [ ] SOLID principles
+    - [ ] Single responsibility
+    - [ ] Open/closed
+    - [ ] Liskov substitution
+    - [ ] Interface segregation
+    - [ ] Dependency inversion
 
 
 ### Design patterns
 
-[ ] Classes of design patterns (behavioural, creational, structural)
+- [ ] Classes of design patterns (behavioural, creational, structural)
 
 #### More frequently mentioned
 
-[ ] Singleton
-[ ] Factory, abstract factory
-[ ] Strategy
-[ ] Adapter
-[ ] Observer
-[ ] Proxy
-[ ] State
-[ ] Facade
-[ ] Wrapper
-[ ] Decorator
-[ ] Composite
-[ ] Builder
+- [ ] Singleton
+- [ ] Factory, abstract factory
+- [ ] Strategy
+- [ ] Adapter
+- [ ] Observer
+- [ ] Proxy
+- [ ] State
+- [ ] Facade
+- [ ] Wrapper
+- [ ] Decorator
+- [ ] Composite
+- [ ] Builder
 
 #### Less frequently mentioned
 
-[ ] Prototype
-[ ] Decorator
-[ ] Visitor  
-[ ] Delegate
-[ ] Command
-[ ] Memento
-[ ] Iterator
-[ ] Flyweight
+- [ ] Prototype
+- [ ] Decorator
+- [ ] Visitor  
+- [ ] Delegate
+- [ ] Command
+- [ ] Memento
+- [ ] Iterator
+- [ ] Flyweight
 
 
 ### Binary
 
-[ ] Basic binary operations
-[ ] Big-endian and littl-endian
-[ ] Exercise: determine if a bit-wise representation of an integer is a palindrome
+- [ ] Basic binary operations
+- [ ] Big-endian and littl-endian
+- [ ] Exercise: determine if a bit-wise representation of an integer is a palindrome
